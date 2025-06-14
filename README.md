@@ -37,3 +37,6 @@ Requires the coff-loader to be loaded in Sliver
 
 🧠 Inspiration
 This module is inspired by the work of Gabriel Landau (Elastic) on Untrusted tokens and sandbox bypass techniques.
+
+IMPORTANT THING 
+sandbox-process.o MUST BE IN A FOLDER NAMED bin or update the extension.json
