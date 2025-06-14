@@ -2,7 +2,7 @@
   "name": "sandbox-process",
   "version": "1.0.0",
   "command_name": "sandbox-process",
-  "extension_author": "Ryan Dekkar",
+  "extension_author": "yan16-DZ",
   "original_author": "Gabriel Landau (Elastic)",
   "repo_url": "https://github.com/yan16-DZ/Anti-SandboxBOF-SLIVERC2/",
   "help": "Strips privileges and sets the token of a process to Untrusted (anti-sandbox)",
