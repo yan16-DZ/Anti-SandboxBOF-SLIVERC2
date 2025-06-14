@@ -1,7 +1,10 @@
 # Anti-SandboxBOF-SLIVERC2
 🧪 sandbox-process
+
 Author: yan16-DZ
+
 Original author: Gabriel Landau (Elastic)
+
 Sliver extension — Windows x64
 
 🛡️ Description
