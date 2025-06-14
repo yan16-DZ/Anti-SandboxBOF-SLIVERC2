@@ -25,6 +25,7 @@ Changes the integrity level to Untrusted
 Requires the coff-loader to be loaded in Sliver
 
 📦 Structure
+
 🎯 PID required: target process ID
 
 🧱 Architecture: Windows x64
