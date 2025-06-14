@@ -1,0 +1,26 @@
+{
+  "name": "sandbox-process",
+  "version": "1.0.0",
+  "command_name": "sandbox-process",
+  "extension_author": "Ryan Dekkar",
+  "original_author": "Gabriel Landau (Elastic)",
+  "repo_url": "https://github.com/yan16-DZ/Anti-SandboxBOF-SLIVERC2/",
+  "help": "Strips privileges and sets the token of a process to Untrusted (anti-sandbox)",
+  "depends_on": "coff-loader",
+  "entrypoint": "go",
+  "files": [
+    {
+      "os": "windows",
+      "arch": "amd64",
+      "path": "bin/sandbox-process.o"
+    }
+  ],
+  "arguments": [
+    {
+      "name": "pid",
+      "desc": "PID of the target process",
+      "type": "integer",
+      "optional": false
+    }
+  ]
+}
